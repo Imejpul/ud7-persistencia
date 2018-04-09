@@ -14,6 +14,7 @@ Ejercicios para trabajar con persistencia de datos.
 
 ### Persistencia
 
-- [Ejercicio 1 - Tareas](./01_tareas/).
-- [Ejercicio 2 - IMDB](./02_imdb/).
-- [Ejercicio 3 - Records](./03_records/).
+- [Ejercicio 1 - Tareas](./01_tareas/) (ficheros JSON).
+- [Ejercicio 2 - IMDB](./02_imdb/) (ficheros de texto plano).
+- [Ejercicio 3 - Records](./03_records/) (base de datos SQLite).
+- [Ejercicio 4 - Viajes](./04_viajes/) (base de datos MySQL).
